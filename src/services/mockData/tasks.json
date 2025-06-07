@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "IMPLEMENT USER AUTHENTICATION SYSTEM",
+    "description": "Build comprehensive auth flow with JWT tokens, password hashing, and session management. Include password reset functionality and email verification.",
+    "priority": "high",
+    "dueDate": "2024-01-15",
+    "completed": false,
+    "createdAt": "2024-01-10T09:00:00.000Z",
+    "listId": "development"
+  },
+  {
+    "id": "2",
+    "title": "OPTIMIZE DATABASE QUERY PERFORMANCE",
+    "description": "Analyze slow queries and implement indexing strategies. Focus on user table joins and search functionality bottlenecks.",
+    "priority": "high",
+    "dueDate": "2024-01-14",
+    "completed": false,
+    "createdAt": "2024-01-10T10:30:00.000Z",
+    "listId": "development"
+  },
+  {
+    "id": "3",
+    "title": "DESIGN MOBILE RESPONSIVE LAYOUT",
+    "description": "Create adaptive layouts for tablet and mobile breakpoints. Ensure touch-friendly interactions and optimized loading performance.",
+    "priority": "medium",
+    "dueDate": "2024-01-18",
+    "completed": false,
+    "createdAt": "2024-01-10T14:15:00.000Z",
+    "listId": "design"
+  },
+  {
+    "id": "4",
+    "title": "CONDUCT SECURITY AUDIT",
+    "description": "Perform comprehensive security review including XSS protection, CSRF tokens, and API endpoint validation. Generate detailed report.",
+    "priority": "high",
+    "dueDate": "2024-01-20",
+    "completed": true,
+    "createdAt": "2024-01-08T11:00:00.000Z",
+    "listId": "security"
+  },
+  {
+    "id": "5",
+    "title": "UPDATE PROJECT DOCUMENTATION",
+    "description": "Revise API documentation, deployment guides, and onboarding materials. Include code examples and troubleshooting sections.",
+    "priority": "low",
+    "dueDate": null,
+    "completed": false,
+    "createdAt": "2024-01-09T16:45:00.000Z",
+    "listId": "documentation"
+  }
+]

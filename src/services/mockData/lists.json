@@ -1,0 +1,32 @@
+[
+  {
+    "id": "development",
+    "name": "Development",
+    "color": "#E0E0E0",
+    "order": 1
+  },
+  {
+    "id": "design",
+    "name": "Design",
+    "color": "#B0B0B0",
+    "order": 2
+  },
+  {
+    "id": "security",
+    "name": "Security",
+    "color": "#909090",
+    "order": 3
+  },
+  {
+    "id": "documentation",
+    "name": "Documentation",
+    "color": "#707070",
+    "order": 4
+  },
+  {
+    "id": "default",
+    "name": "General",
+    "color": "#505050",
+    "order": 5
+  }
+]
